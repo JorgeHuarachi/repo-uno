@@ -1,4 +1,4 @@
-# repo-uno
+# repo uno
 segundo repo en github
 
 ## descripcion
