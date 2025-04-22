@@ -1,5 +1,5 @@
-nombre = "PEPITO MONSTER"
-apellido = "Porque si"
+nombre = "Riquito"
+apellido = "Poquito"
 
 saludo ="Hola " +nombre+" "+apellido+" ¿como estas?"
 
